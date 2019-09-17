@@ -9,6 +9,6 @@ However, with time my hope is to combine this data with that from Dr. Fujita and
 
 | Hazard     | NOAA Period of Record |
 | :--------- | :-------------------: |
-| Tornado    | 1950 -- 2017          |
-| Wind       | 1955 -- 2017          |
-| Hail       | 1955 -- 2017          |
+| Tornado    | 1950 -- 2018          |
+| Wind       | 1955 -- 2018          |
+| Hail       | 1955 -- 2018          |
