@@ -1,5 +1,5 @@
 # Severe Weather Database
-This is the working copy of the NOAA Severe Weather Database that I utilize for the creation of annual severe weather files.
+This is a living copy of the NOAA Severe Weather Database that I utilize for the creation of annual severe weather files.
 Additionally, this database serves as my version to track changes to the database when errors are brought to my attention.
 These data should not be considered official as official records are maintained by the [National Center for Environmental Information (NCEI)](https://www.ncei.noaa.gov).
 
